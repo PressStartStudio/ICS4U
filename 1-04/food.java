@@ -21,7 +21,7 @@ public class food {
 		else if (food.equals("pizza")) {
 			time = (float) 0.45;
 		}	
-		else if (food.equals("sub")){
+		else if (food.equals("soup")){
 			time = (float) 1.75;
 			
 		}
